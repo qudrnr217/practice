@@ -7,4 +7,4 @@ Hi, I am trying to become a developer😎
 <br/><br/>
 
 
-<img src="https://img.shields.io/badge/Notion-#E8E8E8?style=flat&logo=Notion&logoColor=black"/>
+<img src="https://img.shields.io/badge/Notion-E8E8E8?style=flat&logo=Notion&logoColor=black"/>
