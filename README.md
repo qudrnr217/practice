@@ -8,4 +8,5 @@
 
 
 ## 2022-07-11 <img src="https://img.shields.io/badge/Notion-E8E8E8?style=flat&logo=Notion&logoColor=black"/>
+<a href="https://jyagneslee.notion.site/1c05e2a51b4a49e79b2d6add9a847583"</a>
 
